@@ -1,0 +1,13 @@
+D:\College\Егоров\Учебная практика 05\Amonic\Amonic\obj\Release\Amonic.csproj.AssemblyReference.cache
+D:\College\Егоров\Учебная практика 05\Amonic\Amonic\obj\Release\Amonic.csproj.SuggestedBindingRedirects.cache
+D:\College\Егоров\Учебная практика 05\Amonic\Amonic\obj\Release\AddUser.g.cs
+D:\College\Егоров\Учебная практика 05\Amonic\Amonic\obj\Release\AirlinesAutoSys.g.cs
+D:\College\Егоров\Учебная практика 05\Amonic\Amonic\obj\Release\AirlinesAutoSysForUser.g.cs
+D:\College\Егоров\Учебная практика 05\Amonic\Amonic\obj\Release\ChangeRole.g.cs
+D:\College\Егоров\Учебная практика 05\Amonic\Amonic\obj\Release\ExitPage.g.cs
+D:\College\Егоров\Учебная практика 05\Amonic\Amonic\obj\Release\InfoPage.g.cs
+D:\College\Егоров\Учебная практика 05\Amonic\Amonic\obj\Release\MainWindow.g.cs
+D:\College\Егоров\Учебная практика 05\Amonic\Amonic\obj\Release\App.g.cs
+D:\College\Егоров\Учебная практика 05\Amonic\Amonic\obj\Release\Amonic_Content.g.cs
+D:\College\Егоров\Учебная практика 05\Amonic\Amonic\obj\Release\Amonic_MarkupCompile.cache
+D:\College\Егоров\Учебная практика 05\Amonic\Amonic\obj\Release\Amonic_MarkupCompile.lref
